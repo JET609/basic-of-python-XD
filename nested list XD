@@ -1,0 +1,3 @@
+apple =["apple blue","apple green","apple orange","apple white"]
+fruits = len(apple)
+print(apple[fruits -1])
